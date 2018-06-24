@@ -1,0 +1,11 @@
+package String.test;
+
+public class StringBuild {
+	public static void main(String[] args) {
+		// StringBuilder 可变字符序列 线程不安全 效率高
+		// StringBuffer  线程安全  效率相对低
+		StringBuilder sb = new StringBuilder();// 初始数组长度为1
+		System.out.println(sb);
+	}
+}
+	
