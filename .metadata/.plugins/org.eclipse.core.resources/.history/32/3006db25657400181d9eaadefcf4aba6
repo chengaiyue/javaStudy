@@ -1,0 +1,10 @@
+package Extend.test;
+
+public class TestExtends {
+	/*
+	 * 只有单继承
+	 * 多继承要通过接口实现
+	 * extends
+	 * 默认继承Object
+	 */
+}

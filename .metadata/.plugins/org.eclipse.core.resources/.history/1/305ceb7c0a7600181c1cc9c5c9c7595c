@@ -1,0 +1,17 @@
+package InsideClass.test;
+
+public class InsideClass {
+	public static void main(String[] args) {
+		Face s = new Face();
+		
+		Nose = s.new Nose();
+	}
+}
+
+class Face {
+	int type;
+	
+	class Nose {
+		String type;
+	}
+}

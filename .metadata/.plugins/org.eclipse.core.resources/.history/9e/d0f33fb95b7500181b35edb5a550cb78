@@ -1,0 +1,10 @@
+package encapsul.test;
+
+public class Test1 {
+	String str;
+	private String name;
+	private int id;
+	void print() {
+		System.out.print(str);
+	}
+}

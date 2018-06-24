@@ -1,0 +1,19 @@
+package Interface.test;
+
+interface Run{
+	
+}
+
+public class MyClass implements MyInterface, Run { // 实现接口, 实现多个接口，不能创建实例独享
+	public void test01() {
+		
+	}
+	
+	public int test02(int a, int b) {
+		return a + b;
+	}
+	
+	public static void main(String[] args) {
+		System.out.print(MyInterface.MAX_GREAD);
+	}
+}

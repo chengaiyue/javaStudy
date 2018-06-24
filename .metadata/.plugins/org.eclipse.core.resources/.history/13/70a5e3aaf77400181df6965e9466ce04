@@ -1,0 +1,8 @@
+package encapsul.test;
+
+public class Test1 {
+	private String str;
+	void print() {
+		System.out.print("test1");
+	}
+}

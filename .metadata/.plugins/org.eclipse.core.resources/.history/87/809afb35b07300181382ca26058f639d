@@ -1,0 +1,10 @@
+package ClassTest.test;
+
+public class test1 {
+	public static void main(String[] args) {
+		ClassTest s = new ClassTest();
+		
+		s.name = "ÍõÔÃ";
+		int a = (int)2.35;
+	}
+}

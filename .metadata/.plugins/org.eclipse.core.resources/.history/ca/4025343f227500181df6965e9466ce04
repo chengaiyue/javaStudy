@@ -1,0 +1,6 @@
+package encalpsul.test02;
+
+public class Polymorphism {
+	// 多态  继承  方法重写 父类引用指向子类对象
+	
+}

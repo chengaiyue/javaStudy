@@ -1,0 +1,8 @@
+package Extend.test;
+
+public final class TestFinal {
+	final int MAX_SPEED = 200;
+	public final void test() {
+		
+	}
+}

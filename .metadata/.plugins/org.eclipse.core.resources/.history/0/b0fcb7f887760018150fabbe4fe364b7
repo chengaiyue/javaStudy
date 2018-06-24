@@ -1,0 +1,9 @@
+package Array.test;
+
+public class ArrayTest {
+	public static void main(String[] args) {
+		// 数组是相同数据类型的集合
+		int[] a = new int[14]; // [14] 指定数组的长度
+		System.out.print(a[0]);
+	}
+}

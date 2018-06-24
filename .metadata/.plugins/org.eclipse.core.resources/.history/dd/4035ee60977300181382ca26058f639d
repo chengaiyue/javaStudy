@@ -1,0 +1,11 @@
+package ClassTest.test;
+
+public class ClassTest {
+	String name;
+	int id;
+	int age;
+	
+	public void say() {
+		System.out.print(name);
+	}
+}

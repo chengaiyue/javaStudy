@@ -1,0 +1,9 @@
+package Interface.test;
+
+public class MyClass implements MyInterface {
+	public void test01() {
+		
+	}
+	
+	public int test02
+}

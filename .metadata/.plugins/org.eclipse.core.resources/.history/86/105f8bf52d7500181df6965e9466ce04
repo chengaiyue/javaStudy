@@ -1,0 +1,11 @@
+package Interface.test;
+
+public class MyClass implements MyInterface { // 实现接口
+	public void test01() {
+		
+	}
+	
+	public int test02(int a, int b) {
+		return a + b;
+	}
+}

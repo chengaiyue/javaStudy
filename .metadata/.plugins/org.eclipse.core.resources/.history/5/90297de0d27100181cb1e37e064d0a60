@@ -1,0 +1,16 @@
+
+public class Wel {
+	public static void main(String[] args) {
+//		byte 1个字节 正负120
+//		short 2个字节 正负3W
+//		int 正负21亿
+//		long
+//		bigDecimal
+		
+// 		进制转换
+//			Integer.toBinaryString()
+//			Integer.toOctalString()
+//			Integer.toHexString()
+		System.out.println("zcc");
+	}
+}

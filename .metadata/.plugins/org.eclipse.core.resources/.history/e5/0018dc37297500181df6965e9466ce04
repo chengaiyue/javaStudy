@@ -1,0 +1,11 @@
+package Abstract.test;
+
+public abstract class Animal { // 抽象类
+	public abstract void run(); // 抽象方法
+}
+
+class Cat extends Animal {
+	public void run () {
+		System.out.print("必须要实现抽象方法")；
+	}
+}

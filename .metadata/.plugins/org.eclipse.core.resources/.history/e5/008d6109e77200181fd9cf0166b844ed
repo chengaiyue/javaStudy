@@ -1,0 +1,9 @@
+package Scanner.test;
+
+import java.util.Scanner;
+public class ScannerTest {
+	public static void main() {
+		Scanner s = new Scanner(System.in);
+		s.next();
+	}
+}

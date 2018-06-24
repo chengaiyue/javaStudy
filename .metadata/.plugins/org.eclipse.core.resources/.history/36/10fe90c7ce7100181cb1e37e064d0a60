@@ -1,0 +1,10 @@
+
+public class Wel {
+	public static void main(String[] args) {
+//		byte 1个字节 正负128
+//		short 2个字节 正负3W
+//		int 正负21亿
+//		long
+		System.out.println("zcc");
+	}
+}

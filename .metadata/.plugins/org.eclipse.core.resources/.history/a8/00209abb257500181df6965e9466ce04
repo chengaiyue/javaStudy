@@ -1,0 +1,7 @@
+package Servelet.test;
+
+public class test {
+	ServeletTest s = new MyServletTest();
+	
+	s.service();
+}

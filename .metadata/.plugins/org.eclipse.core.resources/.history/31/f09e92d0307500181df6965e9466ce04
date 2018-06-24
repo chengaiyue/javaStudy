@@ -1,0 +1,13 @@
+package Interface.test;
+
+public interface InterfaceExtends {
+	void aaa();
+}
+
+interface InterfaceB{
+	void bbb();
+}
+
+interface InterfaceC{
+	void ccc()
+}

@@ -1,0 +1,25 @@
+package ClassTest.test;
+
+public class ClassTest {
+	String name;
+	int id;
+	int age;
+	
+	static int a;
+	
+	public static void add() {
+		System.out.print(a);
+	}
+	
+	public void say() {
+		System.out.print(a + name);
+		System.out.print(super);
+	}
+	
+	public static void main(String[] args) {
+		ClassTest s = new ClassTest();
+		
+		s.name = "’≈≥Ã≥Ã";
+		s.say();
+	}
+}

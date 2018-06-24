@@ -1,0 +1,6 @@
+
+public class Floa {
+	public static void main(String[] agrs) {
+		float a = 3.14;
+	}
+}
