@@ -1,7 +1,0 @@
-
-public class Str {
-	public static void main(String[] args) {
-		// char 可以和数字之间进行转换
-		// char a = (char)10;
-	}
-}

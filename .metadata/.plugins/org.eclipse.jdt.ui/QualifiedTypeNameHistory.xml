@@ -4,4 +4,6 @@
 <fullyQualifiedTypeName name="InsideClass.test.Face"/>
 <fullyQualifiedTypeName name="InsideClass.test.Face.Ear"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="Array.test.ArrayCopy"/>
 </qualifiedTypeNameHistroy>

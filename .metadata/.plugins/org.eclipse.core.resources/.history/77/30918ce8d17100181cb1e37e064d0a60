@@ -1,7 +1,0 @@
-
-public class Floa {
-	public static void main(String[] agrs) {
-		double a = 3.14;
-		float b = 6.25;
-	}
-}

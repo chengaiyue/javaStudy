@@ -1,0 +1,10 @@
+package String.test;
+
+public class StringBuilder2 {
+	public static void main(String[] args) {
+		StringBuilder s = new StringBuilder("abcdef");
+		s.delete(2, 4);
+		
+		System.out.print(s);
+	}
+}

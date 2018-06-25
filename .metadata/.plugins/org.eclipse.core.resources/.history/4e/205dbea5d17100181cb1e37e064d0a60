@@ -1,6 +1,0 @@
-
-public class Floa {
-	public static void main(String[] agrs) {
-		double a = 3.14;
-	}
-}

@@ -1,0 +1,30 @@
+package myCollection.test;
+
+/**
+ * 模拟实现JDK中的ArrayList类
+ * @author 62739
+ *
+ */
+public class MyArrayList {
+	
+	Object[] value;
+	
+	int size;
+	
+	public MyArrayList() {
+		value = new Object[16];
+	}
+	
+	public MyArrayList(int size) {
+		value = new Object[size];
+	}
+	
+	public void add(Object object) {
+		int len = value.length;
+		value[len+1] = object;
+	}
+	
+	public static void main(String[] args) {
+		
+	}
+}
